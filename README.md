@@ -1,1 +1,1 @@
-# odin-recipes  html simple de recetas para el proyecto odin con fines didácticos
+# odin-recipes  simple html of recipes for the odin project for teaching purposes
